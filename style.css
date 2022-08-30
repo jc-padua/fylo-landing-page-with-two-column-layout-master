@@ -251,6 +251,10 @@ header {
     color: #FFF;
 }
 
+.more-info__links:hover {
+    color: rgb(190, 190, 190);
+}
+
 .socmed {
     display: flex;
     justify-content: center;
