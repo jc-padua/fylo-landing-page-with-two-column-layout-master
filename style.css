@@ -103,7 +103,7 @@ header {
 
 .nav-links:hover {
     border-bottom: 1px solid #000;
-    font-weight: bolder;
+    color: rgb(43, 43, 43);
 }
 
 /* Call to Action TOP */
